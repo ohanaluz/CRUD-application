@@ -1,0 +1,23 @@
+body {
+    background-color: #2f3e46;
+    font-family:   'Montserrat', sans-serif;
+}
+
+
+* {
+    color: #d3d3d3;
+}
+
+#update {
+    display: none
+}
+
+.mt-5 {
+    font-weight: bold;
+ 
+}
+
+/* verdes: #2f3e46   #354f52  #52796f  #84a98c  #cad2c5
+cinza: # d3d3d3
+laranja suave: ffcc80  ffcc80   ffcc80
+marrom: 76453B
